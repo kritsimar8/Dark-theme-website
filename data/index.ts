@@ -9,7 +9,7 @@ export const navItems = [
   export const gridItems = [
     {
       id: 1,
-      title: "Centraization",
+      title: "Centralization",
       description: "",
       className: "lg:col-span-2 md:col-span-3 md:row-span-2 lg:min-h-[30vh]",
       imgClassName: "w-full h-full",
