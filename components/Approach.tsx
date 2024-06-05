@@ -12,7 +12,7 @@ const Approach=() =>{
         </h1>
       <div className="py-20 flex flex-col lg:flex-row items-center justify-center gap-4">
         <Card title="Centralization" icon={<AceternityIcon order="Phase 1"/>}
-        description="we'll collborate to map out  your website's goals,target audience, and audience, and key functionalities. We'll discuss things like site structure, navigation and content requirements"
+        
         >
           <CanvasRevealEffect
             animationSpeed={5.1}
@@ -20,7 +20,7 @@ const Approach=() =>{
           />
         </Card>
         <Card title="Incentives & Ownership" icon={<AceternityIcon order="Phase 2"/>}
-        description="Once we agree on the plan , i cue my lofi playlist and dive into coding.From initial sketches to polished code, I keep you updated every step of the way"
+        
         >
           <CanvasRevealEffect
             animationSpeed={3}
